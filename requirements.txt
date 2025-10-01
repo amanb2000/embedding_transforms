@@ -1,0 +1,6 @@
+numpy
+streamlit
+matplotlib
+mlx-embeddings
+jupyter
+scikit-learn
